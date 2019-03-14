@@ -1,0 +1,7 @@
+﻿!::
+Send, Gł
+!::
+Send, wg
+!::
+P::Send, {Enter}
+return
